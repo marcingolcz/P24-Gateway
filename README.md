@@ -1,0 +1,1 @@
+Accept payments from all major polish banks directly on your WooCommerce using Przelewy24. Gateway supports PLN,CZK, GBP, EUR currencies.
